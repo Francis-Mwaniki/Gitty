@@ -12,7 +12,7 @@ index.html
 initialize git by this command
 ```sh
 git init
-    ```                           
+```                           
 add the untracked code by this command
 ```sh
 git add index.html
