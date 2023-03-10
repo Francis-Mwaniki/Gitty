@@ -1,6 +1,6 @@
 ### This is a simple guide -pushing your first code to github
 
- #### In Windows
+#### In Windows
 Make a folder
  ```sh
   Gitty
